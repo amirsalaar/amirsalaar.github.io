@@ -351,6 +351,21 @@ bold {
     font-weight: bold;
 }
 
+indent {
+    padding: 1em;
+}
+
+/* Profile Summary */
+
+.profile-summary {
+    line-height: 1.2em;
+    font-weight: lighter;
+    color: rgb(63, 69, 78);
+    text-align: justify;
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+}
+
 #projects .project-link-content { margin-left: 0.3em; }
 
 @media (min-width: 768px) {
