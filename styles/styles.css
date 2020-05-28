@@ -351,8 +351,8 @@ button {
 #projects .project-links {
 	display: flex;
 	flex-direction: row;
-    align-content: center;
-    margin: 0.5em 0;
+	align-content: center;
+	margin: 0.5em 0;
 }
 
 #projects .project-link-item {
@@ -453,10 +453,9 @@ indent {
 	}
 
 	#projects .project-links {
-        margin: 0;
-        margin-left: auto;
-    }
-
+		margin: 0;
+		margin-left: auto;
+	}
 }
 
 @media (min-width: 1024px) {
